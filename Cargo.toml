@@ -1,0 +1,7 @@
+[package]
+name = "rush"
+version = "0.1.0"
+authors = ["Lucien Brillant <lucienbrillant@gmail.com>"]
+
+[dependencies]
+rustyline = "1.0.0"
